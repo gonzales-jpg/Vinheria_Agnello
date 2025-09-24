@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: rgb(249,249,249);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1{
+    width: 300px;
+    padding: 50px;
+    margin-left: auto;
+    margin-right: auto;
+ 
+}
+
+#t1{
+    width: 150px;
+    padding: 50px ;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.fotoVinhos{
+    height: 470px;
+    /* Peguei a proporção de tela mais comum dos computadores 1920x1080, como são 4 fotos 1920/4 = 480 - as bordas 470px */
+}
+.nomeVinhos{
+    font-size: 20px;
+    margin-left: 10px;
+}
+.tabelas{
+    margin: 10px;
+    /* background-color: rgb(36, 36, 36); */
+    /* color: aliceblue; */
+    
+}
+.titulos{
+    margin-left: 10px;
+}
