@@ -123,7 +123,7 @@ Plano com **2 garrafas por mês**, curado pelo sommelier **Rodrigo Colon**, prio
 
 ---
 
-## ▶ Executar localmente
+## Executar localmente
 
 1. Clone o repositório e abra o projeto na sua máquina.  
 2. Abra o arquivo `index.html` diretamente no navegador (duplo clique ou via servidor local).
