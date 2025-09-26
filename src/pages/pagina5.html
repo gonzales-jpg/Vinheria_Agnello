@@ -21,6 +21,7 @@
     </nav>
 </header>
 <body>
+    <div class="container"> 
     <article>
         <form id="cadastrar" action="">
             <span>Registrar-se</span>
@@ -46,7 +47,10 @@
         </form>
     </article>
     <article>
-        <form id="login" action="">
+        <!-- Method post para a senha não ficar disponivél na URL do site seria 
+         o correto porém como só se tem front a página carrega para uma nova com 
+         uma mensagem de erro, já que é só para teste de front vou deixar em GET-->
+        <form id="login" action="" method="get">
             <span>Já tem uma conta? Faça login</span>
             <br>
             <input type="email" name="email" id="" placeholder="E-mail">
@@ -56,6 +60,10 @@
           
         </form>
     </article>
+    </div>
 <hr class="linhaHorizontal3">
+<footer>
+    <p class="copy" >&copy;Todos os direitos reservados Vinheria Agnello</p>
+</footer>
 </body>
 </html>

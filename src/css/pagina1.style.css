@@ -66,3 +66,9 @@ border: none;
   background-color: rgb(181, 53, 28);
   margin-top: 200px;
 }
+.copy{
+  text-align: center;
+  background-color:rgb(0, 0, 0);
+  color: aliceblue;
+  padding: 5px;
+}
