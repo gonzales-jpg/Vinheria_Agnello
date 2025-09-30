@@ -39,7 +39,7 @@ Este repositório contém o website público da **Vinheria Agnello**, publicado 
     │    ├── pagina4.style.css
     │    ├── pagina5.style.css
     │    ├── confirmacao.css
-    │    ├── comprar.pagina.css
+    │    └── comprar.pagina.css
     │
     └── assets/
         └── imgs/
@@ -55,7 +55,7 @@ Este repositório contém o website público da **Vinheria Agnello**, publicado 
             ├── image-0.webp
             ├── rose.jpg
             ├── vinho-de-mesa-ou-vinho-fino-2-blog-setembro-22
-
+            └── LOGO.png
 ```
 
 Observação: as folhas de estilo (CSS) estão versionadas no repositório; a barra de linguagens do GitHub indica HTML e CSS como tecnologias predominantes.
@@ -112,6 +112,7 @@ Plano com **2 garrafas por mês**, curado pelo sommelier **Rodrigo Colon**, prio
 - `confirmado.gif` - gif de check.
 - `Chatue-Grand.jpg` - garrafa de vinho Chatue Grand (imagem de produto).
 - `casillero-del-diablo.webp` - garrafa de vinho bordô (imagem de produto).
+- `LOGO.png` - Logo da empresa
 
  **Uso de marcas/imagens**: as imagens são meramente ilustrativas e pertencem aos respectivos titulares. Mantenha créditos e direitos conforme aplicável.
 

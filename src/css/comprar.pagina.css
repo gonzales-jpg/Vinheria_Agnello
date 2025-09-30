@@ -60,7 +60,7 @@ h1 {
   padding: 5px;
 }
 .fotoVinhos2 {
-    height: 650px;
+    height: 650px;  
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -79,4 +79,8 @@ h1 {
     height: 50px;
     width: 200px;
     color: #fff;
+}
+.logo{
+  height: 150px;
+  margin: 10px;
 }
